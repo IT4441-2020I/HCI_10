@@ -1,6 +1,6 @@
 HCI_10
 
-Các thành viên của nhóm
+Các thành viên của nhóm: <br>
 Nguyễn Văn Tuấn - 20173440
 Nguyễn Vẵn Dương - 20173069
 Nguyễn Đức Giang - 20173079
