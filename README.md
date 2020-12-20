@@ -11,7 +11,7 @@ Các chức năng của hệ thống:<br>
 - Soạn thảo<br>
 <br>
 <br>
-Các thành viên của nhóm: <br>
+Các thành viên của nhóm:<br>
 - Nguyễn Văn Tuấn - 20173440<br>
 - Nguyễn Vẵn Dương - 20173069<br>
 - Nguyễn Đức Giang - 20173079<br>
