@@ -10,6 +10,8 @@ Các chức năng của hệ thống:<br>
 - Chuyển đổi kí tự<br>
 - Soạn thảo<br>
 <br>
+Hướng dẫn cài đặt: Clone về máy rồi chạy file index.html
+<br>
 <br>
 Các thành viên của nhóm:<br>
 - Nguyễn Văn Tuấn - 20173440<br>
