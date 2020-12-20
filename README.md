@@ -1,5 +1,4 @@
 HCI_10<br>
-<br>
 Giới thiệu: Ứng dụng học gõ tốc kí<br>
 <br>
 Các chức năng của hệ thống:<br>
@@ -9,7 +8,6 @@ Các chức năng của hệ thống:<br>
 - Từ điển<br>
 - Chuyển đổi kí tự<br>
 - Soạn thảo<br>
-<br>
 Hướng dẫn cài đặt: Clone về máy rồi chạy file index.html
 <br>
 <br>
